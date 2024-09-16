@@ -108,9 +108,9 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10"tvg-name="CCTV10"group-title="央视",CCTV10
 http://xgj.83mi.cn:8865/migu.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11"tvg-name="CCTV11"group-title="央视",CCTV11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11"tvg-name="CCTV11"group-title="央视",CCTV11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11"tvg-name="CCTV11"group-title="央视",CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11"tvg-name="CCTV11"group-title="央视",CCTV11
 http://xgj.83mi.cn:8865/migu.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12"tvg-name="CCTV12"group-title="央视",CCTV12
@@ -120,11 +120,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV12"tvg-name="CCTV12"group-title="央视",CCTV12
 http://xgj.83mi.cn:8865/migu.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13"tvg-name="CCTV13"group-title="央视",CCTV13
-http://120.77.28.4:8648/mgu.php?id=cctv13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13"tvg-name="CCTV13"group-title="央视",CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV13"tvg-name="CCTV13"group-title="央视",CCTV13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://120.77.28.4:8648/mgu.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV13"tvg-name="CCTV13"group-title="央视",CCTV13
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13"tvg-name="CCTV13"group-title="央视",CCTV13
@@ -135,7 +135,7 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV13"tvg-name="CCTV13"group-title="央视",CCTV13
 http://xgj.83mi.cn:8865/migu.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV14"tvg-name="CCTV14"group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="精品体育"tvg-name="精品体育"group-title="体育",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14"tvg-name="CCTV14"group-title="央视",CCTV14
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
